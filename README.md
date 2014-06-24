@@ -1,4 +1,4 @@
 gdgio
 =====
 
-A place to watch the io event livestream
+A place to watch the io event livestream http://io.gdg.ng
