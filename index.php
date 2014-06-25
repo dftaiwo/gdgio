@@ -37,107 +37,107 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Join A Community <b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li>
-									<a href="/groups/chapter/110072242410958082966/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/110072242410958082966/">
 										GDG Abia Poly
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/110463793540880663642/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/110463793540880663642/">
 										GDG Ado-Ekiti
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/113800801882072410635/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/113800801882072410635/">
 										GDG Akure
 									</a>
 								</li>
 								<li>
-									<a href="/groups/chapter/102541424647802000372/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/102541424647802000372/">
 										GDG Benin
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/117679563240292641304/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/117679563240292641304/">
 										GDG Bingham University
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/101561674681942684865/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/101561674681942684865/">
 										GDG BUK
 									</a>
 								</li>
 								<li>
-									<a href="/groups/chapter/104102236676361936871/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/104102236676361936871/">
 										GDG Calabar
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/107982492044424122264/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/107982492044424122264/">
 										GDG Enugu
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/103664297074109377242/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/103664297074109377242/">
 										GDG FUNAAB
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/109813433389926474050/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/109813433389926474050/">
 										GDG Ibadan
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/100822278527605598097/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/100822278527605598097/">
 										GDG Kaduna
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/102360788478802698105/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/102360788478802698105/">
 										GDG Kano
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/118120768718238554452/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/118120768718238554452/">
 										GDG Lafia
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/112227844855698647164/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/112227844855698647164/">
 										GDG Lagos
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/115846222497242868131/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/115846222497242868131/">
 										GDG LAUTECH
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/117566302802057841704/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/117566302802057841704/">
 										GDG OAU
 									</a>
 								</li>
 								<li>
-									<a href="/groups/chapter/100461466728650662561/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/100461466728650662561/">
 										GDG Port Harcourt
 									</a>
 								</li>
 								<li>
-									<a href="/groups/chapter/114875347726232723618/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/114875347726232723618/">
 										GDG Unilag
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/114945869531196995296/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/114945869531196995296/">
 										GDG Unilorin
 									</a>
 								</li>
 								<li>
-									<a href="/groups/chapter/103213619815541904969/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/103213619815541904969/">
 										GDG UNN
 									</a>
 								</li>
 								<li >
-									<a href="/groups/chapter/105190723223310235866/">
+									<a target="_blank" href="http://developers.google.com/groups/chapter/105190723223310235866/">
 										GDG Uyo
 									</a>
 								</li>
