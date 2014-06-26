@@ -206,7 +206,7 @@
 
 			$(window).bind('resizeEnd', function() {
 
-				resizeLiveStream();
+//				resizeLiveStream();
 
 			});
 
